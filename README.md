@@ -13,6 +13,8 @@ Tableau/
 
 ## Dashboard
 
+View the interactive dashboard on [Tableau Public](https://public.tableau.com/views/PulseBoardAnalytics/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 Open `Tableau/Pulse Board Analytics.twbx` in Tableau Desktop or Tableau Reader. The workbook includes an overview with:
 
 - Total revenue, total orders, total customers, and average order value
